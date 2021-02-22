@@ -2,8 +2,7 @@
 
 Packet capture tool made only with Ruby
 
-![simple_capture3](https://user-images.githubusercontent.com/1259315/108729134-91a00300-756d-11eb-870c-2a51a3b1fb27.gif)
-
+![simple_capture3-3](https://user-images.githubusercontent.com/1259315/108730552-fd36a000-756e-11eb-88a0-2b7244802050.gif)
 
 ## Installation
 
