@@ -1,2 +1,14 @@
-# simple_capture
-Packet Capture Tool developed by only Ruby.
+# SimpleCapture
+
+Packet capture tool made only with Ruby
+
+## Installation
+
+## Usage
+
+
+## Development
+
+
+## Contributing
+
