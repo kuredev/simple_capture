@@ -31,3 +31,7 @@ cap.run
 ```
 % sudo ruby test.rb 
 ```
+
+## Related Links
+
+https://zenn.dev/kuredev/articles/16d6e2b865fc43
